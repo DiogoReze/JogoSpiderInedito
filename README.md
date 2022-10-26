@@ -1,3 +1,3 @@
 # JogoSpiderInédito
 
-Jogo construído como tarefa da disciplica LPC de SI-UEA, no primeiro semestre de 2022
+Jogo construído como tarefa da disciplina LPC de SI-UEA, no primeiro semestre de 2022
